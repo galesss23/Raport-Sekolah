@@ -1,0 +1,8 @@
+{
+  "name": "Raport Pintar Minimalis",
+  "description": "Aplikasi berbasis web untuk pembuatan raport sekolah otomatis. Membantu guru menginput nilai, mengelola data siswa, dan mengekspor raport ke PDF serta Excel dengan mudah dan instan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
